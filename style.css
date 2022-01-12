@@ -1,0 +1,21 @@
+body{
+    background-color: lightcoral;
+}
+button:hover {
+    border-radius: 5px;
+ background-color: red;
+ box-shadow: blue 1px 1px;
+}
+input {
+    box-shadow: rgb(77, 2, 148) 1px 1px;
+}
+#chat {
+    font-size: 30px;
+    box-shadow: #ffffff 1px 1px;
+}
+#chat {
+    border-color: lightcoral;
+    border-radius: 20px;
+    width: 500px;
+    height: 150px;
+}
