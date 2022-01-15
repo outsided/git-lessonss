@@ -1,21 +1,27 @@
-body{
-    background-color: lightcoral;
+.okno {
+  background: url(3173231200-ostrov-ko-lipe-tayland-gXNl-1920x1080-MM-100.jpg) ;
+  background-size: 1550px 630px;
 }
-button:hover {
-    border-radius: 5px;
- background-color: red;
- box-shadow: blue 1px 1px;
+.Moya {
+    font-style:italic;
+    color: rgb(207, 15, 1);
+    text-align: right;
 }
-input {
-    box-shadow: rgb(77, 2, 148) 1px 1px;
-}
-#chat {
-    font-size: 30px;
-    box-shadow: #ffffff 1px 1px;
-}
-#chat {
-    border-color: lightcoral;
+.pic1 {
     border-radius: 20px;
-    width: 500px;
-    height: 150px;
+    padding-left: 50px;
+   width: 250px;
+   height: 250px;
+}
+.pic2 {
+    border-radius: 20px;
+    padding-left: 200px;
+    width: 250px;
+    height: 250px;
+}
+.pic3 {
+    border-radius: 20px;
+    padding-left: 200px;
+    width: 250px;
+   height: 250px;
 }
