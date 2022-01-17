@@ -1,0 +1,20 @@
+#stihi {
+    width: 320px;
+    height: 40px;
+    position: absolute;
+    left: 350px;
+    top: 200px;
+    border: 4px solid chocolate  ;
+    border-color: rgb(16, 108, 145);
+    background-color: rgb(22, 133, 153);
+    border-radius: 10px;
+}
+.stih {
+    position: absolute;
+    left: 700px;
+    color: rgb(221, 236, 0);
+}
+.stih:hover {
+ background-color: rgba(113, 113, 153, 0.8);
+ border-radius: 15px;
+}

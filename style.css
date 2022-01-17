@@ -1,6 +1,6 @@
 .okno {
-  background: url(3173231200-ostrov-ko-lipe-tayland-gXNl-1920x1080-MM-100.jpg) ;
-  background-size: 1550px 630px;
+  background: url(https://wallscloud.net/uploads/cache/2896886722/%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4-1024x576-MM-90.jpg)no-repeat;
+  background-size: 1640px 790px;
 }
 .Moya {
     font-style:italic;
@@ -8,20 +8,60 @@
     text-align: right;
 }
 .pic1 {
+    position: absolute;
+    left: 50px;
+   
     border-radius: 20px;
-    padding-left: 50px;
    width: 250px;
-   height: 250px;
+   height: 308px;
+}
+.pic1:hover {
+box-shadow:slateblue 5px 5px 5px 5px;
 }
 .pic2 {
+    position: absolute;
+    left: 350px;
+    top: 450px;
     border-radius: 20px;
-    padding-left: 200px;
-    width: 250px;
-    height: 250px;
+   
+    width: 260px;
+    height: 300px;
+}
+.pic2:hover {
+    box-shadow:slateblue 5px 5px 5px 5px;
 }
 .pic3 {
+    position: absolute;
+    left: 1300px;
+    top: 90px;
     border-radius: 20px;
-    padding-left: 200px;
+    
     width: 250px;
-   height: 250px;
+   height: 330px;
+}
+.pic3:hover {
+    box-shadow:slateblue 5px 5px 5px 5px;
+}
+.pic4 {
+    position: absolute;
+    left: 50px;
+    top: 450px;
+    border-radius: 20px;
+    
+    width: 250px;
+   height: 320px;
+}
+.pic4:hover {
+    box-shadow:slateblue 5px 5px 5px 5px;
+}.pic5 {
+    position: absolute;
+    left: 1300px;
+    top: 450px;
+    border-radius: 20px;
+    
+    width: 250px;
+   height: 330px;
+}
+.pic5:hover {
+    box-shadow:slateblue 5px 5px 5px 5px;
 }
